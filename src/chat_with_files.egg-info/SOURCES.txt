@@ -1,0 +1,13 @@
+README.md
+setup.py
+src/chat_with_files.egg-info/PKG-INFO
+src/chat_with_files.egg-info/SOURCES.txt
+src/chat_with_files.egg-info/dependency_links.txt
+src/chat_with_files.egg-info/top_level.txt
+src/mai_nahi_bataunga/__init__.py
+src/mai_nahi_bataunga/facade/__init__.py
+src/mai_nahi_bataunga/file_upload/__init__.py
+src/mai_nahi_bataunga/file_upload/upload_file.py
+src/mai_nahi_bataunga/prompts/__init__.py
+src/mai_nahi_bataunga/utils/__init__.py
+src/mai_nahi_bataunga/utils/common.py
